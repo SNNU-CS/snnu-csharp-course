@@ -1,0 +1,4 @@
+language: csharp
+solution: SNNU_CSharp_Course.sln
+mono:
+  - latest
