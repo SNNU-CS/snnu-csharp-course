@@ -5,6 +5,10 @@
 陕西师范大学"可视化程序设计"课程的实验报告与代码。
 
 ----------
+## 下载地址
+* [Lab Report.zip](https://github.com/ZhaoQi99/SNNU_CSharp_Course/releases/download/V0.1.0/Lab_Report.zip)
+* [Source code(zip)](https://github.com/ZhaoQi99/SNNU_CSharp_Course/archive/V0.1.0.zip)
+* [Source code(tar.gz)](https://github.com/ZhaoQi99/SNNU_CSharp_Course/archive/V0.1.0.tar.gz)
 
 ## 实验报告
 * 实验报告一:[Lab_report_1.doc](https://github.com/ZhaoQi99/SNNU_CSharp_Course/blob/master/Lab_Report/Lab_Report_1.doc)
