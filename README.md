@@ -22,7 +22,7 @@
 * 课程设计:[EasyLife V0.1.0](https://github.com/ZhaoQi99/EasyLife/tree/Course_Design/)
 
 ## 实验内容
-* 下载地址:[实验内容.doc](https://github.com/ZhaoQi99/SNNU_CSharp_Course/blob/master/Lab_Report/%E5%AE%9E%E9%AA%8C%E5%86%85%E5%AE%B9.doc)
+* 下载地址:[实验内容.doc](https://github.com/ZhaoQi99/SNNU_CSharp_Course/raw/master/Lab_Report/%E5%AE%9E%E9%AA%8C%E5%86%85%E5%AE%B9.doc)
 
 ### 实验一:VB/C#.NET集成环境与程序的建立
 1. 生成简单的“Hello,world!”程序。[Helllo World](https://github.com/ZhaoQi99/SNNU_CSharp_Course/tree/master/Hello%20World)
