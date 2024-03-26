@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/ZhaoQi99/SNNU_CSharp_Course.svg?branch=master)](https://travis-ci.org/ZhaoQi99/SNNU_CSharp_Course/)
 [![Release](https://img.shields.io/github/release/ZhaoQi99/SNNU_CSharp_Course.svg)](https://github.com/ZhaoQi99/SNNU_CSharp_Course/releases)
-[![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/ZhaoQi99/EasyLife/blob/SNNU_CSharp_Course/LICENSE)
+[![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/SNNU-CS/snnu-csharp-course/blob/master/LICENSE)
 # SNNU_CSharp_Course
 陕西师范大学"可视化程序设计"课程的实验报告与代码。
 
@@ -19,7 +19,7 @@
 * 实验报告六:(Todo)
 * 实验报告七:(Todo)
 * 实验报告八:(Todo)
-* 课程设计:[EasyLife V0.1.0](https://github.com/ZhaoQi99/EasyLife/tree/Course_Design/)
+* 课程设计:[EasyLife V0.1.0](https://github.com/ZhaoQi99/EasyLife)
 
 ## 实验内容
 * 下载地址:[实验内容.doc](https://github.com/ZhaoQi99/SNNU_CSharp_Course/raw/master/Lab_Report/%E5%AE%9E%E9%AA%8C%E5%86%85%E5%AE%B9.doc)
